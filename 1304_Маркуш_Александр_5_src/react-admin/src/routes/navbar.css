@@ -1,0 +1,15 @@
+.navigation_bar {
+    background: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.navigation_elem {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background: #555;
+}

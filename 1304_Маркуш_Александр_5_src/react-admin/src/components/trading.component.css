@@ -1,0 +1,51 @@
+.mainInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.settingsDate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.date {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.label {
+    margin-right: 10px;
+}
+
+.input {
+    margin-right: 10px;
+}
+
+#startButton,
+#stopButton {
+    margin-top: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}

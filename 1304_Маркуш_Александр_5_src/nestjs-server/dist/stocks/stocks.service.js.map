@@ -1,0 +1,1 @@
+{"version":3,"file":"stocks.service.js","sourceRoot":"","sources":["../../src/stocks/stocks.service.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,2CAA4C;AAC5C,oEAAuC;AAGhC,IAAM,aAAa,GAAnB,MAAM,aAAa;IAEtB,YAAY;QACR,OAAO,IAAI,CAAC,SAAS,CAAC,qBAAM,CAAC,CAAC;IAClC,CAAC;CACJ,CAAA;AALY,sCAAa;wBAAb,aAAa;IADzB,IAAA,mBAAU,GAAE;GACA,aAAa,CAKzB"}
